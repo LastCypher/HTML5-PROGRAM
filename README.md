@@ -1,2 +1,2 @@
 # HTML5-PROGRAM
-Some sample program related to Html5
+Some sample programs related to Html5
